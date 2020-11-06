@@ -1,0 +1,163 @@
+[
+  {
+    "modId": "TFC-Tweaks",
+    "deps": [
+      {
+        "type": "after",
+        "target": "terrafirmacraftplus"
+      },
+      {
+        "type": "before",
+        "target": "tfccellars"
+      },
+      {
+        "type": "before",
+        "target": "MineTweaker3"
+      },
+      {
+        "type": "before",
+        "target": "TFCPlusTweaker"
+      },
+      {
+        "type": "before",
+        "target": "MerchantsTFC"
+      },
+      {
+        "type": "before",
+        "target": "tfcwells"
+      },
+      {
+        "type": "before",
+        "target": "tfcm"
+      },
+      {
+        "type": "before",
+        "target": "DecorationsTFC"
+      },
+      {
+        "type": "before",
+        "target": "tfcplusudarymod"
+      },
+      {
+        "type": "before",
+        "target": "CoroAI"
+      },
+      {
+        "type": "before",
+        "target": "BuildMod"
+      },
+      {
+        "type": "before",
+        "target": "CoroPets"
+      },
+      {
+        "type": "before",
+        "target": "ExtendedRenderer"
+      },
+      {
+        "type": "before",
+        "target": "ConfigMod"
+      },
+      {
+        "type": "before",
+        "target": "cosmeticarmorreworked"
+      },
+      {
+        "type": "before",
+        "target": "creativecore"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_onFire"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_creepers"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_dropItems"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_entityClasses"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_mobEquipment"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_flameArrows"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_floodLights"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_otherPlayers"
+      },
+      {
+        "type": "before",
+        "target": "DynamicLights_thePlayer"
+      },
+      {
+        "type": "before",
+        "target": "dsurround"
+      },
+      {
+        "type": "before",
+        "target": "farseek"
+      },
+      {
+        "type": "before",
+        "target": "HardcoreDarkness"
+      },
+      {
+        "type": "before",
+        "target": "ImmersiveEngineering"
+      },
+      {
+        "type": "before",
+        "target": "ingameconfigmanager"
+      },
+      {
+        "type": "before",
+        "target": "lwstfc"
+      },
+      {
+        "type": "before",
+        "target": "MouseTweaks"
+      },
+      {
+        "type": "before",
+        "target": "cuchaz.cuchazinteractive"
+      },
+      {
+        "type": "before",
+        "target": "cuchaz.ships"
+      },
+      {
+        "type": "before",
+        "target": "streams"
+      },
+      {
+        "type": "before",
+        "target": "TerraFirmaCraftNEIplugin"
+      },
+      {
+        "type": "before",
+        "target": "Waila"
+      },
+      {
+        "type": "before",
+        "target": "xaerominimap"
+      }
+    ]
+  }
+]
